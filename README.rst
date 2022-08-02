@@ -12,18 +12,12 @@ Introduction
 ------------
 
 .. image:: https://github.com/CV4EcologySchool/Lecture-1/raw/main/intro.jpg
+    :target: https://docs.google.com/presentation/d/1Bm9ZvQC6Y1SW_xAHHbMvhsRRb87tgzIimM0YKEXEA6w/edit?usp=sharing
     :alt: "Lecture 1: Dataset Prototyping and Visualization"
 
 This repository holds the lecture materials for the `Computer Vision for Ecology workshop at CalTech <https://cv4ecology.caltech.edu>`_.  The goal of this lecture is to describe which qualities are idea for prototype ML datasets and a review of PyTorch's DataLoaders and Tensors.  Lecture 1 also reviews the overall lecture structure for the three week course, review the milestone due tomorrow (Week 1, Day 2), review the tools and technologies and terms that are common for ML applications.
 
-Lecture Slides
---------------------------
-
-The associated slides for this lecture can be viewed by clicking on the image below.
-
-.. image:: https://github.com/CV4EcologySchool/Lecture-1/raw/main/slides.jpg
-    :target: https://docs.google.com/presentation/d/1Bm9ZvQC6Y1SW_xAHHbMvhsRRb87tgzIimM0YKEXEA6w/edit?usp=sharing
-    :alt: View the Google Slide presentation
+The associated slides for this lecture can be viewed by clicking on the image above.
 
 Overiew of Tools
 ----------------
